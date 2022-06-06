@@ -9,7 +9,7 @@ Habilidades: HTML5 / CSS4 / BOOTSTRAP / GIT / SASS /
 
 - 🔭 Estoy trabajando en esta pagina. 
 - 🌱 Estoy aprendiendo Javascript 
-- 👯 Quiero colaborar con lacomunidad desarrolladora 
+- 👯 Quiero colaborar con la comunidad desarrolladora 
 - 📫 Cómo contactarme: fernando_punk77@hotmail.com 
 - 😄 Pronombres: Fer Astrozombie 
 - ⚡ Dato curioso: Fan de Starwars 
