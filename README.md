@@ -1,3 +1,5 @@
+![](https://github.com/FerAstrozombie/FerAstrozombie/blob/main/1618362234155.jpg)
+
 ### Hola 👋, Mi nombre es Fer
 #### Actualmente me encuentro en etapa de crecimiento como desarrollador
 Hice este repositorio para ir subiendo todos los proyectos en los que me encuentre trabajando en este camino como desarrollador
