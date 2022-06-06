@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Fer
+#### Actualmente me encuentro en etapa de crecimiento como desarrollador
+Hice este repositorio para ir subiendo todos los proyectos en los que me encuentre trabajando en este camino como desarrollador
 
-<!--
-**FerAstrozombie/FerAstrozombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Habilidades: HTML5 / CSS4 / BOOTSTRAP / GIT / SASS /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en esta pagina. 
+- 🌱 Estoy aprendiendo Javascript 
+- 👯 Quiero colaborar con lacomunidad desarrolladora 
+- 📫 Cómo contactarme: fernando_punk77@hotmail.com 
+- 😄 Pronombres: Fer Astrozombie 
+- ⚡ Dato curioso: Fan de Starwars 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FerAstrozombie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fernando-lair//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/FerAstrozombie)  
