@@ -13,6 +13,6 @@ Habilidades: HTML5 / CSS4 / BOOTSTRAP / GIT / SASS /
 - ⚡ Dato curioso: Fan de Starwars 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FerAstrozombie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fernando-lair//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//FerAstrozombie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//fernando-lair//)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/FerAstrozombie)  
+![Profile views](https://gpvc.arturio.dev//FerAstrozombie)  
