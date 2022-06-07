@@ -5,7 +5,7 @@
 Hice este repositorio para ir subiendo todos los proyectos en los que me encuentre trabajando en este camino como desarrollador
 
 
-Habilidades: HTML5 / CSS4 / BOOTSTRAP / GIT / SASS /
+Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS /
 
 - 🔭 Estoy trabajando en esta pagina. 
 - 🌱 Estoy aprendiendo Javascript 
