@@ -8,7 +8,7 @@ Hice este repositorio para ir subiendo todos los proyectos en los que me encuent
 Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS /
 
 - 🔭 Estoy trabajando en esta pagina. 
-- 🌱 Estoy aprendiendo Javascript 
+- 🌱 Estoy aprendiendo React Js 
 - 👯 Quiero colaborar con la comunidad desarrolladora 
 - 📫 Cómo contactarme: fernando_punk77@hotmail.com 
 - 😄 Pronombres: Fer Astrozombie 
