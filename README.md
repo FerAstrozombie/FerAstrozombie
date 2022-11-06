@@ -5,10 +5,10 @@
 Hice este repositorio para ir subiendo todos los proyectos en los que me encuentre trabajando en este camino como desarrollador
 
 
-Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS /
+Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS / REACT JS / NODE JS / EXPRESS / HANDLEBARS / PUG / EJS / FIREBASE
 
 - 🔭 Estoy trabajando en esta pagina. 
-- 🌱 Estoy aprendiendo React Js 
+- 🌱 Estoy aprendiendo Programacion Backend 
 - 👯 Quiero colaborar con la comunidad desarrolladora 
 - 📫 Cómo contactarme: fernando_punk77@hotmail.com 
 - 😄 Pronombres: Fer Astrozombie 
@@ -20,7 +20,6 @@ Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS /
 ### Lenguajes que manejo  
 
 <p>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
@@ -28,6 +27,7 @@ Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS /
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" heigth="50"/>
 </p>
 
 
