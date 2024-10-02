@@ -2,16 +2,15 @@
 
 ### Hola 👋, Mi nombre es Fer
 #### Soy desarrollador Fullstack M.E.R.N
-#### Actualmente me encuentro en etapa de crecimiento como desarrollador
-Hice este repositorio para ir subiendo todos los proyectos en los que me encuentre trabajando en este camino como desarrollador
+
+En este repositorio voy subiendo todos los proyectos en los que me encuentro trabajando en este camino como desarrollador
 
 
 Habilidades: HTML5 / CSS3 / BOOTSTRAP / GIT / SASS / REACT JS / NODE JS / EXPRESS / HANDLEBARS / PUG / EJS / FIREBASE
 
-- 🔭 Estoy trabajando en mi desarrollo profesional. 
 - 🌱 Siempre en constante crecimiento. 
 - 👯 Quiero colaborar con la comunidad desarrolladora. 
-- 📫 Cómo contactarme: fernando_punk77@hotmail.com. 
+- 📫 Cómo contactarme: fernandorenelair@gmail.com. 
 - 😄 Pronombres: Fer Astrozombie. 
 - ⚡ Dato curioso: Fan de Starwars. 
 
